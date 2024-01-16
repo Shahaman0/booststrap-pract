@@ -1,0 +1,50 @@
+.head{
+    background-color: rgb(112, 226, 188);
+    border: 2px solid rgb(112, 226, 188);
+    height: 600px;
+    width: 100%;
+    text-align: center;
+    padding-top: 150px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-stretch: extra-expanded;
+}
+.headdown{
+    border: 2px solid rgb(255, 255, 255);
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+}
+.cards{
+    border: 2px solid rgb(255, 255, 255);
+    height: 600px;
+    width: 100%;
+    display: inline-flex;
+    gap: 60%;
+    margin: 30px;
+    align-items: center;
+
+
+}
+.card2{
+    border: 2px solid rgb(255, 255, 255);
+    height: 600px;
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    margin: 30px;
+    gap: 60%;
+}
+.about{
+    background-color: rgb(112, 226, 188);
+    text-align: center;
+    border: 2px solid rgb(112, 226, 188);
+    height: 400px;
+    width: 100%;
+    padding-top: 100px;
+}
+#form{
+    border: 2px solid red;
+    height: 400px;
+    width: 100%;
+}
